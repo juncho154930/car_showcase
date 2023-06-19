@@ -1,6 +1,12 @@
+### Likely that this site api will not be functional because it will have exceeded API trial or information updated
+
 Tutorial based on: https://www.youtube.com/watch?v=pUNSHPyVryU
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+API:
+RapidAPI cars by ninja
+Imagin studio - jsmastery user
 
 ## Getting Started
 
